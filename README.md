@@ -136,28 +136,6 @@ $database = "jobportal";
 # 6. Visit in browser
 http://localhost/jobportal/index.html
 ```
-
----
-
-## 👥 Team
-
-| Roll No. | Name |
-|----------|------|
-| 40 | Bawage Sphurti Sanjaykumar |
-| 41 | Patil Abhishek Vitthal |
-| 42 | Patil Dhanashree Shashikant |
-
-> **Guide:** Mr. M. A. Pilankar, Senior Lecturer — Computer Engineering
-
----
-
-## 🏫 Institution
-
-**Shree Mouni Vidhyapeeth's**  
-Institute of Civil and Rural Engineering, Gargoti  
-*Diploma in Computer Engineering — Academic Year 2024–25*  
-Maharashtra State Board of Technical Education
-
 ---
 
 ## 📚 References
