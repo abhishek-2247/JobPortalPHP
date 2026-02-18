@@ -20,7 +20,7 @@
 <div align="center">
 
 ### 🏠 Home Page
-![Home Page](Screenshots/index.jpg)
+![Home Page](Screenshots/indexfile.jpg)
 
 ### 📝 Register Page
 ![Register](Screenshots/register.jpg)
