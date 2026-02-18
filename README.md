@@ -21,28 +21,28 @@
 <div align="center">
 
 ### 🏠 Home Page
-![Home Page](screenshots/index.jpg)
+![Home Page](Screenshots/index.jpg)
 
 ### 📝 Register Page
-![Register](screenshots/register.jpg)
+![Register](Screenshots/register.jpg)
 
 ### 🔐 Login Page
-![Login](screenshots/login.jpg)
+![Login](Screenshots/login.jpg)
 
 ### 📋 Available Job Listings
-![Job Listings](screenshots/jobposts.jpg)
+![Job Listings](Screenshots/jobposts.jpg)
 
 ### 🔍 Search Jobs
-![Search](screenshots/jobposts_searched.jpg)
+![Search](Screenshots/jobposts_searched.jpg)
 
 ### ✅ Application Submitted
-![Applied](screenshots/applied.jpg)
+![Applied](Screenshots/applied.jpg)
 
 ### 🛠️ Admin Panel – Manage Jobs
-![Admin Panel](screenshots/admin.jpg)
+![Admin Panel](Screenshots/admin.jpg)
 
 ### ➕ Admin Panel – Add New Job
-![Add Job](screenshots/admin2.jpg)
+![Add Job](Screenshots/admin2.jpg)
 
 </div>
 
