@@ -42,7 +42,7 @@
 ![Admin Panel](Screenshots/admin.jpg)
 
 ### ➕ Admin Panel – Add New Job
-![Add Job](Screenshots/admin2.jpg)
+![Add Job](Screenshots/admin_2.jpg)
 
 </div>
 
