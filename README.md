@@ -73,15 +73,27 @@ Traditional recruitment methods are becoming outdated — this platform offers a
 ```
 jobportal/
 │
-├── index.html              # Landing page
-├── register.html           # User registration
-├── login.html              # User login
-├── jobposts.php            # Job listings page
-├── apply.php               # Job application handler
-├── admin_login.html        # Admin login page
-├── admin.php               # Admin panel
-├── db_connect.php          # Database connection
-└── screenshots/            # Project screenshots
+├── 📁 .github/
+│   └── 📁 workflows/
+│       └── static.yml              # GitHub Actions workflow
+│
+├── 📁 Screenshots/                 # Project screenshots
+│
+├── 📄 index.html                   # 🏠 Landing page (Home)
+├── 📄 register.html                # 📝 User registration form
+├── 📄 register.php                 # ⚙️  Registration logic handler
+├── 📄 login.html                   # 🔐 User login form
+├── 📄 login.php                    # ⚙️  Login authentication handler
+├── 📄 logout.php                   # 🚪 Session logout handler
+├── 📄 jobposts.php                 # 📋 Available job listings page
+├── 📄 jobsearch.html               # 🔍 Job search interface
+├── 📄 apply.php                    # 📨 Job application handler
+├── 📄 admin_login.html             # 🛡️  Admin login form
+├── 📄 admin_login.php              # ⚙️  Admin authentication handler
+├── 📄 admin.php                    # 🛠️  Admin dashboard & job management
+├── 📄 add_job.php                  # ➕ Add new job listing handler
+├── 📄 db.php                       # 🗄️  Database connection config
+└── 📄 README.md                    # 📖 Project documentation
 ```
 
 ---
