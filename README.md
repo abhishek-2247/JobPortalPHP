@@ -138,19 +138,6 @@ http://localhost/jobportal/index.html
 ```
 ---
 
-## 📚 References
-
-- 📖 Manual: Web Based Application Development Using PHP (22619)
-- 🌐 [W3Schools PHP Documentation](https://www.w3schools.com/php/)
-
----
-
-## 📃 License
-
-This project was developed for academic purposes under MSBTE guidelines.
-
----
-
 <div align="center">
-  Made with ❤️ by <b>Abhishek, Sphurti & Dhanashree</b> | © 2025 Job Portal
+  Made with ❤️ by <b>Abhishek Patil</b> | © 2025 Job Portal
 </div>
